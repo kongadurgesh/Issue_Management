@@ -23,5 +23,6 @@ public class Issue {
     private Severity severity;
     private Priority priority;
     private Status status;
-
+    private String issueSource;
+    private String issueSourceObjectId;
 }
